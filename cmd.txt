@@ -18,4 +18,6 @@ cd Mask_RCNN
 
 jupyter notebook
 
-python3 ./samples/balloon.py train --dataset=./dataset/balloon --weights=coco
+python cigarette.py detect --weights=./mask_rcnn_cigarette.h5
+python cigarette.py detect --weights=./mask_rcnn_cigarette.h5 --image=./dataset/test/smoking_0297.jpg
+python cigarette.py splash --weights=./mask_rcnn_cigarette.h5 --image=./dataset/test/smoking_0297.jpg

@@ -1,1 +1,3654 @@
-{"smoking_0001.jpg45204":{"filename":"smoking_0001.jpg","size":45204,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[674,717,709,599,538],"all_points_y":[104,111,156,424,431]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0002.jpg95169":{"filename":"smoking_0002.jpg","size":95169,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[157,177,229,213,193,162,156],"all_points_y":[389,385,383,401,404,404,393]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0003.jpg9768":{"filename":"smoking_0003.jpg","size":9768,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[244,251,243,230,235],"all_points_y":[136,137,191,197,162]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0004.jpg8808":{"filename":"smoking_0004.jpg","size":8808,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[83,86,196,187,82],"all_points_y":[48,44,130,139,50]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0009.jpg909094":{"filename":"smoking_0009.jpg","size":909094,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[1872,1695,1737,1784,1935],"all_points_y":[746,1387,1413,1377,787]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0011.jpg13197":{"filename":"smoking_0011.jpg","size":13197,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[331,323,375,385,332],"all_points_y":[204,206,263,258,203]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0014.jpg421489":{"filename":"smoking_0014.jpg","size":421489,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[710,786,1392,1423,1402,1347,731],"all_points_y":[1025,1018,1385,1430,1465,1451,1098]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0015.jpg14902":{"filename":"smoking_0015.jpg","size":14902,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[244,249,261,262,259],"all_points_y":[159,158,170,174,176]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0021.jpg83179":{"filename":"smoking_0021.jpg","size":83179,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[224,228,271,275,327,328,300,277,264,241,231,223],"all_points_y":[381,378,368,368,366,374,379,384,382,391,390,386]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0023.jpg52756":{"filename":"smoking_0023.jpg","size":52756,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[177,202,290,284,270,195,178],"all_points_y":[420,420,470,475,480,442,430]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0027.jpg34720":{"filename":"smoking_0027.jpg","size":34720,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[251,267,273,255],"all_points_y":[156,168,165,152]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0040.jpg12232":{"filename":"smoking_0040.jpg","size":12232,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[259,293,297,272,264],"all_points_y":[299,243,248,290,298]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0064.jpg44083":{"filename":"smoking_0064.jpg","size":44083,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[166,174,200,203,283,292,202,175],"all_points_y":[192,170,172,170,185,222,210,204]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0072.jpg93059":{"filename":"smoking_0072.jpg","size":93059,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[444,436,446,596,612,615,462],"all_points_y":[414,426,437,566,565,550,421]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0079.jpg28121":{"filename":"smoking_0079.jpg","size":28121,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[396,412,472,460],"all_points_y":[305,307,432,439]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0084.jpg75313":{"filename":"smoking_0084.jpg","size":75313,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[113,30,45,132],"all_points_y":[309,426,439,313]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0007.jpg6871":{"filename":"smoking_0007.jpg","size":6871,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[183,190,210,203],"all_points_y":[220,217,278,281]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0048.jpg157770":{"filename":"smoking_0048.jpg","size":157770,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[46,49,61,89,75,50],"all_points_y":[162,160,170,206,208,172]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0051.jpg122424":{"filename":"smoking_0051.jpg","size":122424,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[426,422,418,376,373,381,421,425],"all_points_y":[218,219,218,205,201,199,211,214]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0092.jpg2151031":{"filename":"smoking_0092.jpg","size":2151031,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[1039,1085,1100,1130,1151,1110],"all_points_y":[1237,1227,1277,1500,1632,1647]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0097.jpg164237":{"filename":"smoking_0097.jpg","size":164237,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[257,235,229,249],"all_points_y":[229,260,255,227]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0099.jpg45297":{"filename":"smoking_0099.jpg","size":45297,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[232,237,277,264],"all_points_y":[366,358,388,395]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0100.jpg43567":{"filename":"smoking_0100.jpg","size":43567,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[323,384,389,344],"all_points_y":[221,181,190,226]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0103.jpg127752":{"filename":"smoking_0103.jpg","size":127752,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[936,928,1014,1027,1046,1036],"all_points_y":[262,277,313,321,311,302]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0106.jpg159192":{"filename":"smoking_0106.jpg","size":159192,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[436,679,615,459],"all_points_y":[920,816,886,956]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0118.jpg36185":{"filename":"smoking_0118.jpg","size":36185,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[597,492,501,610],"all_points_y":[264,339,351,273]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0120.jpg20940":{"filename":"smoking_0120.jpg","size":20940,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[255,467,444,250],"all_points_y":[242,439,459,285]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0124.jpg151491":{"filename":"smoking_0124.jpg","size":151491,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[326,333,506,517,498,343],"all_points_y":[598,581,594,601,613,608]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0127.jpg53867":{"filename":"smoking_0127.jpg","size":53867,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[336,329,333,363,367],"all_points_y":[310,314,318,334,324]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0128.jpg111326":{"filename":"smoking_0128.jpg","size":111326,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[4,14,122,114],"all_points_y":[288,272,330,347]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0130.jpg13948":{"filename":"smoking_0130.jpg","size":13948,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[113,253,289,281,245,141],"all_points_y":[87,114,131,146,140,118]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0136.jpg18214":{"filename":"smoking_0136.jpg","size":18214,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[177,391,476,568,556,439,238],"all_points_y":[278,222,208,227,270,259,328]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0137.jpg72587":{"filename":"smoking_0137.jpg","size":72587,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[167,178,222,249,245,168],"all_points_y":[234,233,248,256,265,241]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0139.jpg87899":{"filename":"smoking_0139.jpg","size":87899,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[770,642,636,639,660,735],"all_points_y":[280,256,263,271,278,298]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0147.jpg136687":{"filename":"smoking_0147.jpg","size":136687,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[65,61,60,89,99,100,69],"all_points_y":[253,259,263,315,312,304,253]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0160.jpg117578":{"filename":"smoking_0160.jpg","size":117578,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[677,648,654,687],"all_points_y":[256,269,278,263]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0163.jpg127970":{"filename":"smoking_0163.jpg","size":127970,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[497,452,443,455,470,511],"all_points_y":[484,629,664,673,630,489]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0206.jpg184488":{"filename":"smoking_0206.jpg","size":184488,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[612,964,961,619],"all_points_y":[321,337,374,358]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0222.jpg38842":{"filename":"smoking_0222.jpg","size":38842,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[265,270,289,377,372,265],"all_points_y":[94,101,94,48,36,92]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0233.jpg135344":{"filename":"smoking_0233.jpg","size":135344,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[674,766,761,753,663],"all_points_y":[398,455,465,467,412]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0234.jpg214820":{"filename":"smoking_0234.jpg","size":214820,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[347,353,355,363,445,455,447,443,371],"all_points_y":[608,936,999,1017,1021,993,971,914,612]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0236.jpg46847":{"filename":"smoking_0236.jpg","size":46847,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[73,78,113,127,127,76],"all_points_y":[170,165,183,189,195,175]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0291.jpg20362":{"filename":"smoking_0291.jpg","size":20362,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[138,140,146,160,157,143,139],"all_points_y":[212,210,213,224,226,216,214]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0299.jpg163653":{"filename":"smoking_0299.jpg","size":163653,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[382,390,367,359],"all_points_y":[350,347,318,319]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0301.jpg98920":{"filename":"smoking_0301.jpg","size":98920,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[384,373,376,385,393],"all_points_y":[874,969,972,971,882]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0317.jpg86325":{"filename":"smoking_0317.jpg","size":86325,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[62,69,116,212,206],"all_points_y":[267,253,278,330,342]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0318.jpg152429":{"filename":"smoking_0318.jpg","size":152429,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[381,615,623,615,387,363],"all_points_y":[829,871,853,845,801,809]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0321.jpg214753":{"filename":"smoking_0321.jpg","size":214753,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[392,298,317,406],"all_points_y":[202,291,309,213]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0322.jpg151189":{"filename":"smoking_0322.jpg","size":151189,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[402,424,515,523,429,408],"all_points_y":[378,372,377,398,393,388]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0373.jpg81506":{"filename":"smoking_0373.jpg","size":81506,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[119,119,221,222,124],"all_points_y":[278,273,281,288,282]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0569.jpg30123":{"filename":"smoking_0569.jpg","size":30123,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[147,155,212,220,212,153,148],"all_points_y":[207,203,208,214,220,219,216]},"region_attributes":{"cigarette":""}}],"file_attributes":{}},"smoking_0572.jpg42503":{"filename":"smoking_0572.jpg","size":42503,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[61,67,110,103,64],"all_points_y":[197,192,221,226,201]},"region_attributes":{"cigarette":""}}],"file_attributes":{}}}
+{
+  "smoking_0001.jpg45204": {
+    "filename": "smoking_0001.jpg",
+    "size": 45204,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            674,
+            717,
+            709,
+            599,
+            538
+          ],
+          "all_points_y": [
+            104,
+            111,
+            156,
+            424,
+            431
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0002.jpg95169": {
+    "filename": "smoking_0002.jpg",
+    "size": 95169,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            157,
+            177,
+            229,
+            213,
+            193,
+            162,
+            156
+          ],
+          "all_points_y": [
+            389,
+            385,
+            383,
+            401,
+            404,
+            404,
+            393
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0003.jpg9768": {
+    "filename": "smoking_0003.jpg",
+    "size": 9768,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            244,
+            251,
+            243,
+            230,
+            235
+          ],
+          "all_points_y": [
+            136,
+            137,
+            191,
+            197,
+            162
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0004.jpg8808": {
+    "filename": "smoking_0004.jpg",
+    "size": 8808,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            83,
+            86,
+            196,
+            187,
+            82
+          ],
+          "all_points_y": [
+            48,
+            44,
+            130,
+            139,
+            50
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0009.jpg909094": {
+    "filename": "smoking_0009.jpg",
+    "size": 909094,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1872,
+            1695,
+            1737,
+            1784,
+            1935
+          ],
+          "all_points_y": [
+            746,
+            1387,
+            1413,
+            1377,
+            787
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0011.jpg13197": {
+    "filename": "smoking_0011.jpg",
+    "size": 13197,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            331,
+            323,
+            375,
+            385,
+            332
+          ],
+          "all_points_y": [
+            204,
+            206,
+            263,
+            258,
+            203
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0014.jpg421489": {
+    "filename": "smoking_0014.jpg",
+    "size": 421489,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            710,
+            786,
+            1392,
+            1423,
+            1402,
+            1347,
+            731
+          ],
+          "all_points_y": [
+            1025,
+            1018,
+            1385,
+            1430,
+            1465,
+            1451,
+            1098
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0015.jpg14902": {
+    "filename": "smoking_0015.jpg",
+    "size": 14902,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            244,
+            249,
+            261,
+            262,
+            259
+          ],
+          "all_points_y": [
+            159,
+            158,
+            170,
+            174,
+            176
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0021.jpg83179": {
+    "filename": "smoking_0021.jpg",
+    "size": 83179,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            224,
+            228,
+            271,
+            275,
+            327,
+            328,
+            300,
+            277,
+            264,
+            241,
+            231,
+            223
+          ],
+          "all_points_y": [
+            381,
+            378,
+            368,
+            368,
+            366,
+            374,
+            379,
+            384,
+            382,
+            391,
+            390,
+            386
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0023.jpg52756": {
+    "filename": "smoking_0023.jpg",
+    "size": 52756,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            177,
+            202,
+            290,
+            284,
+            270,
+            195,
+            178
+          ],
+          "all_points_y": [
+            420,
+            420,
+            470,
+            475,
+            480,
+            442,
+            430
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0027.jpg34720": {
+    "filename": "smoking_0027.jpg",
+    "size": 34720,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            251,
+            267,
+            273,
+            255
+          ],
+          "all_points_y": [
+            156,
+            168,
+            165,
+            152
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0040.jpg12232": {
+    "filename": "smoking_0040.jpg",
+    "size": 12232,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            259,
+            293,
+            297,
+            272,
+            264
+          ],
+          "all_points_y": [
+            299,
+            243,
+            248,
+            290,
+            298
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0064.jpg44083": {
+    "filename": "smoking_0064.jpg",
+    "size": 44083,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            166,
+            174,
+            200,
+            203,
+            283,
+            292,
+            202,
+            175
+          ],
+          "all_points_y": [
+            192,
+            170,
+            172,
+            170,
+            185,
+            222,
+            210,
+            204
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0072.jpg93059": {
+    "filename": "smoking_0072.jpg",
+    "size": 93059,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            444,
+            436,
+            446,
+            596,
+            612,
+            615,
+            462
+          ],
+          "all_points_y": [
+            414,
+            426,
+            437,
+            566,
+            565,
+            550,
+            421
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0079.jpg28121": {
+    "filename": "smoking_0079.jpg",
+    "size": 28121,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            396,
+            412,
+            472,
+            460
+          ],
+          "all_points_y": [
+            305,
+            307,
+            432,
+            439
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0084.jpg75313": {
+    "filename": "smoking_0084.jpg",
+    "size": 75313,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            113,
+            30,
+            45,
+            132
+          ],
+          "all_points_y": [
+            309,
+            426,
+            439,
+            313
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0007.jpg6871": {
+    "filename": "smoking_0007.jpg",
+    "size": 6871,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            183,
+            190,
+            210,
+            203
+          ],
+          "all_points_y": [
+            220,
+            217,
+            278,
+            281
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0048.jpg157770": {
+    "filename": "smoking_0048.jpg",
+    "size": 157770,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            46,
+            49,
+            61,
+            89,
+            75,
+            50
+          ],
+          "all_points_y": [
+            162,
+            160,
+            170,
+            206,
+            208,
+            172
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0051.jpg122424": {
+    "filename": "smoking_0051.jpg",
+    "size": 122424,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            426,
+            422,
+            418,
+            376,
+            373,
+            381,
+            421,
+            425
+          ],
+          "all_points_y": [
+            218,
+            219,
+            218,
+            205,
+            201,
+            199,
+            211,
+            214
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0092.jpg2151031": {
+    "filename": "smoking_0092.jpg",
+    "size": 2151031,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1039,
+            1085,
+            1100,
+            1130,
+            1151,
+            1110
+          ],
+          "all_points_y": [
+            1237,
+            1227,
+            1277,
+            1500,
+            1632,
+            1647
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0097.jpg164237": {
+    "filename": "smoking_0097.jpg",
+    "size": 164237,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            257,
+            235,
+            229,
+            249
+          ],
+          "all_points_y": [
+            229,
+            260,
+            255,
+            227
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0099.jpg45297": {
+    "filename": "smoking_0099.jpg",
+    "size": 45297,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            232,
+            237,
+            277,
+            264
+          ],
+          "all_points_y": [
+            366,
+            358,
+            388,
+            395
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0100.jpg43567": {
+    "filename": "smoking_0100.jpg",
+    "size": 43567,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            323,
+            384,
+            389,
+            344
+          ],
+          "all_points_y": [
+            221,
+            181,
+            190,
+            226
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0103.jpg127752": {
+    "filename": "smoking_0103.jpg",
+    "size": 127752,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            936,
+            928,
+            1014,
+            1027,
+            1046,
+            1036
+          ],
+          "all_points_y": [
+            262,
+            277,
+            313,
+            321,
+            311,
+            302
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0106.jpg159192": {
+    "filename": "smoking_0106.jpg",
+    "size": 159192,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            436,
+            679,
+            615,
+            459
+          ],
+          "all_points_y": [
+            920,
+            816,
+            886,
+            956
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0118.jpg36185": {
+    "filename": "smoking_0118.jpg",
+    "size": 36185,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            597,
+            492,
+            501,
+            610
+          ],
+          "all_points_y": [
+            264,
+            339,
+            351,
+            273
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0120.jpg20940": {
+    "filename": "smoking_0120.jpg",
+    "size": 20940,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            255,
+            467,
+            444,
+            250
+          ],
+          "all_points_y": [
+            242,
+            439,
+            459,
+            285
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0124.jpg151491": {
+    "filename": "smoking_0124.jpg",
+    "size": 151491,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            326,
+            333,
+            506,
+            517,
+            498,
+            343
+          ],
+          "all_points_y": [
+            598,
+            581,
+            594,
+            601,
+            613,
+            608
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0127.jpg53867": {
+    "filename": "smoking_0127.jpg",
+    "size": 53867,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            336,
+            329,
+            333,
+            363,
+            367
+          ],
+          "all_points_y": [
+            310,
+            314,
+            318,
+            334,
+            324
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0128.jpg111326": {
+    "filename": "smoking_0128.jpg",
+    "size": 111326,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            4,
+            14,
+            122,
+            114
+          ],
+          "all_points_y": [
+            288,
+            272,
+            330,
+            347
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0130.jpg13948": {
+    "filename": "smoking_0130.jpg",
+    "size": 13948,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            113,
+            253,
+            289,
+            281,
+            245,
+            141
+          ],
+          "all_points_y": [
+            87,
+            114,
+            131,
+            146,
+            140,
+            118
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0136.jpg18214": {
+    "filename": "smoking_0136.jpg",
+    "size": 18214,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            177,
+            391,
+            476,
+            568,
+            556,
+            439,
+            238
+          ],
+          "all_points_y": [
+            278,
+            222,
+            208,
+            227,
+            270,
+            259,
+            328
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0137.jpg72587": {
+    "filename": "smoking_0137.jpg",
+    "size": 72587,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            167,
+            178,
+            222,
+            249,
+            245,
+            168
+          ],
+          "all_points_y": [
+            234,
+            233,
+            248,
+            256,
+            265,
+            241
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0139.jpg87899": {
+    "filename": "smoking_0139.jpg",
+    "size": 87899,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            770,
+            642,
+            636,
+            639,
+            660,
+            735
+          ],
+          "all_points_y": [
+            280,
+            256,
+            263,
+            271,
+            278,
+            298
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0147.jpg136687": {
+    "filename": "smoking_0147.jpg",
+    "size": 136687,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            65,
+            61,
+            60,
+            89,
+            99,
+            100,
+            69
+          ],
+          "all_points_y": [
+            253,
+            259,
+            263,
+            315,
+            312,
+            304,
+            253
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0160.jpg117578": {
+    "filename": "smoking_0160.jpg",
+    "size": 117578,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            677,
+            648,
+            654,
+            687
+          ],
+          "all_points_y": [
+            256,
+            269,
+            278,
+            263
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0163.jpg127970": {
+    "filename": "smoking_0163.jpg",
+    "size": 127970,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            497,
+            452,
+            443,
+            455,
+            470,
+            511
+          ],
+          "all_points_y": [
+            484,
+            629,
+            664,
+            673,
+            630,
+            489
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0206.jpg184488": {
+    "filename": "smoking_0206.jpg",
+    "size": 184488,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            612,
+            964,
+            961,
+            619
+          ],
+          "all_points_y": [
+            321,
+            337,
+            374,
+            358
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0222.jpg38842": {
+    "filename": "smoking_0222.jpg",
+    "size": 38842,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            265,
+            270,
+            289,
+            377,
+            372,
+            265
+          ],
+          "all_points_y": [
+            94,
+            101,
+            94,
+            48,
+            36,
+            92
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0233.jpg135344": {
+    "filename": "smoking_0233.jpg",
+    "size": 135344,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            674,
+            766,
+            761,
+            753,
+            663
+          ],
+          "all_points_y": [
+            398,
+            455,
+            465,
+            467,
+            412
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0234.jpg214820": {
+    "filename": "smoking_0234.jpg",
+    "size": 214820,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            347,
+            353,
+            355,
+            363,
+            445,
+            455,
+            447,
+            443,
+            371
+          ],
+          "all_points_y": [
+            608,
+            936,
+            999,
+            1017,
+            1021,
+            993,
+            971,
+            914,
+            612
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0236.jpg46847": {
+    "filename": "smoking_0236.jpg",
+    "size": 46847,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            73,
+            78,
+            113,
+            127,
+            127,
+            76
+          ],
+          "all_points_y": [
+            170,
+            165,
+            183,
+            189,
+            195,
+            175
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0291.jpg20362": {
+    "filename": "smoking_0291.jpg",
+    "size": 20362,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            138,
+            140,
+            146,
+            160,
+            157,
+            143,
+            139
+          ],
+          "all_points_y": [
+            212,
+            210,
+            213,
+            224,
+            226,
+            216,
+            214
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0299.jpg163653": {
+    "filename": "smoking_0299.jpg",
+    "size": 163653,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            382,
+            390,
+            367,
+            359
+          ],
+          "all_points_y": [
+            350,
+            347,
+            318,
+            319
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0301.jpg98920": {
+    "filename": "smoking_0301.jpg",
+    "size": 98920,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            384,
+            373,
+            376,
+            385,
+            393
+          ],
+          "all_points_y": [
+            874,
+            969,
+            972,
+            971,
+            882
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0317.jpg86325": {
+    "filename": "smoking_0317.jpg",
+    "size": 86325,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            62,
+            69,
+            116,
+            212,
+            206
+          ],
+          "all_points_y": [
+            267,
+            253,
+            278,
+            330,
+            342
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0318.jpg152429": {
+    "filename": "smoking_0318.jpg",
+    "size": 152429,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            381,
+            615,
+            623,
+            615,
+            387,
+            363
+          ],
+          "all_points_y": [
+            829,
+            871,
+            853,
+            845,
+            801,
+            809
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0321.jpg214753": {
+    "filename": "smoking_0321.jpg",
+    "size": 214753,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            392,
+            298,
+            317,
+            406
+          ],
+          "all_points_y": [
+            202,
+            291,
+            309,
+            213
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0322.jpg151189": {
+    "filename": "smoking_0322.jpg",
+    "size": 151189,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            402,
+            424,
+            515,
+            523,
+            429,
+            408
+          ],
+          "all_points_y": [
+            378,
+            372,
+            377,
+            398,
+            393,
+            388
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0373.jpg81506": {
+    "filename": "smoking_0373.jpg",
+    "size": 81506,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            119,
+            119,
+            221,
+            222,
+            124
+          ],
+          "all_points_y": [
+            278,
+            273,
+            281,
+            288,
+            282
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0569.jpg30123": {
+    "filename": "smoking_0569.jpg",
+    "size": 30123,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            147,
+            155,
+            212,
+            220,
+            212,
+            153,
+            148
+          ],
+          "all_points_y": [
+            207,
+            203,
+            208,
+            214,
+            220,
+            219,
+            216
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0572.jpg42503": {
+    "filename": "smoking_0572.jpg",
+    "size": 42503,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            61,
+            67,
+            110,
+            103,
+            64
+          ],
+          "all_points_y": [
+            197,
+            192,
+            221,
+            226,
+            201
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0340.jpg45672": {
+    "filename": "smoking_0340.jpg",
+    "size": 45672,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            380,
+            387,
+            428,
+            419
+          ],
+          "all_points_y": [
+            263,
+            259,
+            322,
+            328
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0341.jpg101306": {
+    "filename": "smoking_0341.jpg",
+    "size": 101306,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            216,
+            224,
+            254,
+            243,
+            241
+          ],
+          "all_points_y": [
+            308,
+            305,
+            328,
+            329,
+            329
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0342.jpg71727": {
+    "filename": "smoking_0342.jpg",
+    "size": 71727,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            262,
+            309,
+            316,
+            315,
+            268,
+            265
+          ],
+          "all_points_y": [
+            172,
+            148,
+            147,
+            152,
+            174,
+            176
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0343.jpg63294": {
+    "filename": "smoking_0343.jpg",
+    "size": 63294,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            314,
+            341,
+            353,
+            350,
+            326,
+            325
+          ],
+          "all_points_y": [
+            331,
+            308,
+            303,
+            315,
+            336,
+            337
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0344.jpg62048": {
+    "filename": "smoking_0344.jpg",
+    "size": 62048,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            354,
+            289,
+            293,
+            313,
+            321,
+            385
+          ],
+          "all_points_y": [
+            602,
+            812,
+            830,
+            830,
+            815,
+            614
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0345.jpg418927": {
+    "filename": "smoking_0345.jpg",
+    "size": 418927,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            524,
+            535,
+            539,
+            537,
+            531
+          ],
+          "all_points_y": [
+            363,
+            352,
+            351,
+            359,
+            368
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0346.jpg147271": {
+    "filename": "smoking_0346.jpg",
+    "size": 147271,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            235,
+            335,
+            339,
+            242
+          ],
+          "all_points_y": [
+            403,
+            354,
+            363,
+            411
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0348.jpg241843": {
+    "filename": "smoking_0348.jpg",
+    "size": 241843,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            467,
+            482,
+            482,
+            470
+          ],
+          "all_points_y": [
+            276,
+            269,
+            273,
+            277
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0349.jpg113045": {
+    "filename": "smoking_0349.jpg",
+    "size": 113045,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            353,
+            395,
+            402,
+            357
+          ],
+          "all_points_y": [
+            515,
+            482,
+            485,
+            519
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0350.jpg119583": {
+    "filename": "smoking_0350.jpg",
+    "size": 119583,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            331,
+            339,
+            343,
+            345,
+            336
+          ],
+          "all_points_y": [
+            407,
+            430,
+            431,
+            426,
+            407
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0351.jpg249669": {
+    "filename": "smoking_0351.jpg",
+    "size": 249669,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            658,
+            662,
+            668,
+            663,
+            660
+          ],
+          "all_points_y": [
+            252,
+            246,
+            246,
+            255,
+            255
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0352.jpg56874": {
+    "filename": "smoking_0352.jpg",
+    "size": 56874,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            459,
+            565,
+            574,
+            579,
+            579,
+            477,
+            459
+          ],
+          "all_points_y": [
+            219,
+            324,
+            323,
+            316,
+            310,
+            208,
+            207
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0353.jpg244155": {
+    "filename": "smoking_0353.jpg",
+    "size": 244155,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            309,
+            373,
+            379,
+            314,
+            308
+          ],
+          "all_points_y": [
+            436,
+            421,
+            430,
+            444,
+            443
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0354.jpg169059": {
+    "filename": "smoking_0354.jpg",
+    "size": 169059,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            379,
+            392,
+            443,
+            449,
+            443,
+            406,
+            382
+          ],
+          "all_points_y": [
+            319,
+            314,
+            306,
+            306,
+            323,
+            333,
+            331
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0356.jpg119747": {
+    "filename": "smoking_0356.jpg",
+    "size": 119747,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            274,
+            323,
+            336,
+            329,
+            277,
+            271
+          ],
+          "all_points_y": [
+            346,
+            307,
+            305,
+            313,
+            354,
+            349
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0357.jpg99039": {
+    "filename": "smoking_0357.jpg",
+    "size": 99039,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            33,
+            77,
+            79,
+            34
+          ],
+          "all_points_y": [
+            956,
+            940,
+            945,
+            962
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0358.jpg141412": {
+    "filename": "smoking_0358.jpg",
+    "size": 141412,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            504,
+            574,
+            573,
+            566,
+            495
+          ],
+          "all_points_y": [
+            440,
+            526,
+            541,
+            535,
+            446
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0359.jpg29884": {
+    "filename": "smoking_0359.jpg",
+    "size": 29884,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            180,
+            204,
+            202,
+            197,
+            177
+          ],
+          "all_points_y": [
+            172,
+            179,
+            182,
+            182,
+            175
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0361.jpg116078": {
+    "filename": "smoking_0361.jpg",
+    "size": 116078,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            523,
+            533,
+            532,
+            523
+          ],
+          "all_points_y": [
+            127,
+            119,
+            115,
+            123
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0362.jpg147769": {
+    "filename": "smoking_0362.jpg",
+    "size": 147769,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            218,
+            247,
+            245,
+            221
+          ],
+          "all_points_y": [
+            119,
+            125,
+            130,
+            124
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0367.jpg235437": {
+    "filename": "smoking_0367.jpg",
+    "size": 235437,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            195,
+            202,
+            226,
+            219,
+            197
+          ],
+          "all_points_y": [
+            432,
+            429,
+            501,
+            503,
+            434
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0368.jpg61959": {
+    "filename": "smoking_0368.jpg",
+    "size": 61959,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            309,
+            343,
+            349,
+            345,
+            311,
+            307
+          ],
+          "all_points_y": [
+            253,
+            223,
+            225,
+            231,
+            259,
+            257
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0369.jpg96077": {
+    "filename": "smoking_0369.jpg",
+    "size": 96077,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            157,
+            187,
+            185,
+            157
+          ],
+          "all_points_y": [
+            161,
+            167,
+            171,
+            165
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0370.jpg126505": {
+    "filename": "smoking_0370.jpg",
+    "size": 126505,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            55,
+            147,
+            141,
+            49
+          ],
+          "all_points_y": [
+            235,
+            277,
+            287,
+            246
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0371.jpg123173": {
+    "filename": "smoking_0371.jpg",
+    "size": 123173,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            191,
+            305,
+            306,
+            190
+          ],
+          "all_points_y": [
+            545,
+            537,
+            551,
+            560
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0372.jpg117677": {
+    "filename": "smoking_0372.jpg",
+    "size": 117677,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            386,
+            407,
+            414,
+            413,
+            393
+          ],
+          "all_points_y": [
+            270,
+            228,
+            225,
+            232,
+            264
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0379.jpg175608": {
+    "filename": "smoking_0379.jpg",
+    "size": 175608,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            543,
+            708,
+            749,
+            765,
+            748,
+            714,
+            605,
+            536
+          ],
+          "all_points_y": [
+            519,
+            532,
+            541,
+            554,
+            561,
+            561,
+            551,
+            544
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0380.jpg51325": {
+    "filename": "smoking_0380.jpg",
+    "size": 51325,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            443,
+            591,
+            596,
+            446
+          ],
+          "all_points_y": [
+            237,
+            205,
+            217,
+            250
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0381.jpg79694": {
+    "filename": "smoking_0381.jpg",
+    "size": 79694,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            568,
+            709,
+            709,
+            559
+          ],
+          "all_points_y": [
+            357,
+            426,
+            443,
+            368
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0382.jpg207792": {
+    "filename": "smoking_0382.jpg",
+    "size": 207792,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            684,
+            681,
+            683,
+            688,
+            688,
+            687
+          ],
+          "all_points_y": [
+            253,
+            267,
+            269,
+            268,
+            267,
+            244
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0383.jpg73952": {
+    "filename": "smoking_0383.jpg",
+    "size": 73952,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            468,
+            645,
+            663,
+            669,
+            660,
+            646,
+            485,
+            463,
+            459,
+            460,
+            462
+          ],
+          "all_points_y": [
+            385,
+            366,
+            363,
+            346,
+            329,
+            323,
+            346,
+            352,
+            361,
+            374,
+            381
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0384.jpg157126": {
+    "filename": "smoking_0384.jpg",
+    "size": 157126,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            394,
+            406,
+            532,
+            548,
+            553,
+            446,
+            410,
+            390
+          ],
+          "all_points_y": [
+            574,
+            565,
+            510,
+            510,
+            521,
+            571,
+            585,
+            585
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0388.jpg106846": {
+    "filename": "smoking_0388.jpg",
+    "size": 106846,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            564,
+            584,
+            589,
+            592,
+            590,
+            573,
+            568
+          ],
+          "all_points_y": [
+            383,
+            374,
+            372,
+            378,
+            384,
+            390,
+            388
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0389.jpg143681": {
+    "filename": "smoking_0389.jpg",
+    "size": 143681,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            304,
+            386,
+            422,
+            415,
+            301,
+            299
+          ],
+          "all_points_y": [
+            415,
+            468,
+            493,
+            504,
+            423,
+            419
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0391.jpg120198": {
+    "filename": "smoking_0391.jpg",
+    "size": 120198,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            250,
+            267,
+            344,
+            344,
+            273,
+            259,
+            246
+          ],
+          "all_points_y": [
+            520,
+            513,
+            490,
+            512,
+            529,
+            533,
+            522
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0392.jpg141338": {
+    "filename": "smoking_0392.jpg",
+    "size": 141338,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            371,
+            419,
+            426,
+            429,
+            429,
+            418,
+            384,
+            373
+          ],
+          "all_points_y": [
+            167,
+            162,
+            163,
+            163,
+            168,
+            169,
+            174,
+            174
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0393.jpg327342": {
+    "filename": "smoking_0393.jpg",
+    "size": 327342,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            141,
+            310,
+            316,
+            294,
+            161,
+            144
+          ],
+          "all_points_y": [
+            434,
+            398,
+            406,
+            415,
+            448,
+            448
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0394.jpg131341": {
+    "filename": "smoking_0394.jpg",
+    "size": 131341,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            489,
+            531,
+            539,
+            534,
+            488
+          ],
+          "all_points_y": [
+            290,
+            296,
+            302,
+            303,
+            299
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0395.jpg249278": {
+    "filename": "smoking_0395.jpg",
+    "size": 249278,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            69,
+            105,
+            128,
+            128,
+            65
+          ],
+          "all_points_y": [
+            84,
+            96,
+            109,
+            121,
+            90
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0396.jpg179020": {
+    "filename": "smoking_0396.jpg",
+    "size": 179020,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            386,
+            455,
+            474,
+            482,
+            480,
+            465,
+            455,
+            388,
+            382,
+            383
+          ],
+          "all_points_y": [
+            339,
+            332,
+            331,
+            333,
+            345,
+            345,
+            352,
+            357,
+            354,
+            345
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0398.jpg80191": {
+    "filename": "smoking_0398.jpg",
+    "size": 80191,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            61,
+            67,
+            79,
+            73,
+            67,
+            58
+          ],
+          "all_points_y": [
+            95,
+            99,
+            106,
+            109,
+            106,
+            101
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0399.jpg109320": {
+    "filename": "smoking_0399.jpg",
+    "size": 109320,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            292,
+            311,
+            353,
+            360,
+            351,
+            301,
+            285
+          ],
+          "all_points_y": [
+            487,
+            486,
+            499,
+            507,
+            514,
+            503,
+            490
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0401.jpg69259": {
+    "filename": "smoking_0401.jpg",
+    "size": 69259,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            70,
+            80,
+            109,
+            95,
+            71
+          ],
+          "all_points_y": [
+            185,
+            187,
+            221,
+            224,
+            189
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0403.jpg151747": {
+    "filename": "smoking_0403.jpg",
+    "size": 151747,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            455,
+            491,
+            503,
+            504,
+            495,
+            484,
+            462
+          ],
+          "all_points_y": [
+            684,
+            702,
+            714,
+            718,
+            722,
+            722,
+            705
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0407.jpg163254": {
+    "filename": "smoking_0407.jpg",
+    "size": 163254,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            473,
+            481,
+            480,
+            472,
+            464
+          ],
+          "all_points_y": [
+            637,
+            665,
+            672,
+            664,
+            640
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0408.jpg106872": {
+    "filename": "smoking_0408.jpg",
+    "size": 106872,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            212,
+            233,
+            297,
+            384,
+            397,
+            358,
+            246,
+            216
+          ],
+          "all_points_y": [
+            451,
+            429,
+            386,
+            331,
+            343,
+            372,
+            444,
+            464
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0410.jpg154908": {
+    "filename": "smoking_0410.jpg",
+    "size": 154908,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            455,
+            479,
+            477,
+            458
+          ],
+          "all_points_y": [
+            163,
+            167,
+            173,
+            168
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0411.jpg113808": {
+    "filename": "smoking_0411.jpg",
+    "size": 113808,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            523,
+            536,
+            534,
+            525,
+            516
+          ],
+          "all_points_y": [
+            263,
+            284,
+            287,
+            281,
+            268
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0412.jpg180113": {
+    "filename": "smoking_0412.jpg",
+    "size": 180113,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            203,
+            208,
+            228,
+            224,
+            218,
+            201,
+            201
+          ],
+          "all_points_y": [
+            139,
+            148,
+            211,
+            214,
+            212,
+            152,
+            140
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0413.jpg97377": {
+    "filename": "smoking_0413.jpg",
+    "size": 97377,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            344,
+            389,
+            398,
+            535,
+            549,
+            431,
+            420,
+            413,
+            398,
+            371,
+            354,
+            346
+          ],
+          "all_points_y": [
+            257,
+            249,
+            239,
+            213,
+            254,
+            276,
+            274,
+            279,
+            279,
+            287,
+            279,
+            267
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0415.jpg166850": {
+    "filename": "smoking_0415.jpg",
+    "size": 166850,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            611,
+            622,
+            664,
+            716,
+            726,
+            727,
+            715,
+            706,
+            697,
+            630
+          ],
+          "all_points_y": [
+            250,
+            242,
+            276,
+            326,
+            343,
+            356,
+            350,
+            350,
+            345,
+            284
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0416.jpg162610": {
+    "filename": "smoking_0416.jpg",
+    "size": 162610,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            482,
+            497,
+            510,
+            523,
+            527,
+            499,
+            486
+          ],
+          "all_points_y": [
+            599,
+            592,
+            585,
+            579,
+            586,
+            601,
+            606
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0417.jpg137808": {
+    "filename": "smoking_0417.jpg",
+    "size": 137808,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            440,
+            539,
+            542,
+            488,
+            439
+          ],
+          "all_points_y": [
+            324,
+            344,
+            355,
+            344,
+            335
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0420.jpg70009": {
+    "filename": "smoking_0420.jpg",
+    "size": 70009,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            46,
+            96,
+            109,
+            151,
+            158,
+            145,
+            137,
+            52
+          ],
+          "all_points_y": [
+            354,
+            326,
+            319,
+            296,
+            301,
+            309,
+            317,
+            359
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0421.jpg274889": {
+    "filename": "smoking_0421.jpg",
+    "size": 274889,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            394,
+            431,
+            429,
+            393
+          ],
+          "all_points_y": [
+            335,
+            335,
+            342,
+            339
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0423.jpg425632": {
+    "filename": "smoking_0423.jpg",
+    "size": 425632,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            355,
+            396,
+            403,
+            361
+          ],
+          "all_points_y": [
+            510,
+            483,
+            488,
+            514
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0424.jpg89190": {
+    "filename": "smoking_0424.jpg",
+    "size": 89190,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            442,
+            450,
+            540,
+            542,
+            456,
+            443
+          ],
+          "all_points_y": [
+            188,
+            181,
+            207,
+            221,
+            199,
+            194
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0425.jpg122338": {
+    "filename": "smoking_0425.jpg",
+    "size": 122338,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            682,
+            699,
+            685,
+            674,
+            669
+          ],
+          "all_points_y": [
+            433,
+            471,
+            471,
+            436,
+            431
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            724,
+            746,
+            749,
+            730
+          ],
+          "all_points_y": [
+            507,
+            506,
+            515,
+            515
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            730,
+            748,
+            746,
+            699,
+            696
+          ],
+          "all_points_y": [
+            530,
+            534,
+            541,
+            543,
+            535
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            693,
+            692,
+            655,
+            662
+          ],
+          "all_points_y": [
+            484,
+            490,
+            480,
+            471
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            709,
+            706,
+            719,
+            717,
+            724,
+            724
+          ],
+          "all_points_y": [
+            508,
+            499,
+            494,
+            506,
+            502,
+            496
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            700,
+            719,
+            729,
+            742,
+            751,
+            752,
+            750,
+            731,
+            718,
+            713
+          ],
+          "all_points_y": [
+            506,
+            527,
+            530,
+            528,
+            534,
+            530,
+            525,
+            521,
+            512,
+            508
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            682,
+            677,
+            683,
+            690,
+            687,
+            674
+          ],
+          "all_points_y": [
+            522,
+            540,
+            519,
+            530,
+            540,
+            546
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            652,
+            676,
+            660,
+            647
+          ],
+          "all_points_y": [
+            493,
+            505,
+            509,
+            503
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            673,
+            645,
+            652,
+            677
+          ],
+          "all_points_y": [
+            509,
+            515,
+            520,
+            515
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0426.jpg123125": {
+    "filename": "smoking_0426.jpg",
+    "size": 123125,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            108,
+            125,
+            220,
+            289,
+            283,
+            247,
+            122,
+            110
+          ],
+          "all_points_y": [
+            241,
+            239,
+            268,
+            291,
+            299,
+            289,
+            252,
+            249
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0427.jpg141523": {
+    "filename": "smoking_0427.jpg",
+    "size": 141523,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            65,
+            89,
+            115,
+            158,
+            158,
+            78,
+            67
+          ],
+          "all_points_y": [
+            583,
+            579,
+            583,
+            583,
+            589,
+            593,
+            589
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0428.jpg134729": {
+    "filename": "smoking_0428.jpg",
+    "size": 134729,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            112,
+            136,
+            129,
+            111
+          ],
+          "all_points_y": [
+            491,
+            502,
+            503,
+            497
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0429.jpg188670": {
+    "filename": "smoking_0429.jpg",
+    "size": 188670,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            867,
+            905,
+            913,
+            868
+          ],
+          "all_points_y": [
+            744,
+            726,
+            735,
+            756
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  }
+}
