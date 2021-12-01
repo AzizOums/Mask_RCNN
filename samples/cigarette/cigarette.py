@@ -41,6 +41,7 @@ ROOT_DIR = os.path.abspath("../../")
 sys.path.append(ROOT_DIR)  # To find local version of the library
 from mrcnn.config import Config
 from mrcnn import model as modellib, utils
+from mrcnn import visualize
 
 # Path to trained weights file
 COCO_WEIGHTS_PATH = os.path.join(ROOT_DIR, "mask_rcnn_coco.h5")
@@ -94,19 +95,6 @@ class CigaretteDataset(utils.Dataset):
         dataset_dir = os.path.join(dataset_dir, subset)
 
         # Load annotations
-        # VGG Image Annotator (up to version 1.6) saves each image in the form:
-        # { 'filename': '28503151_5b5b7ec140_b.jpg',
-        #   'regions': {
-        #       '0': {
-        #           'region_attributes': {},
-        #           'shape_attributes': {
-        #               'all_points_x': [...],
-        #               'all_points_y': [...],
-        #               'name': 'polygon'}},
-        #       ... more regions ...
-        #   },
-        #   'size': 100202
-        # }
         # We mostly care about the x and y coordinates of each region
         # Note: In VIA 2.0, regions was changed from a dict to a list.
         annotations = json.load(open(os.path.join(dataset_dir, "only_cigarette_annotaions.json")))
@@ -235,6 +223,12 @@ def detect_and_color_splash(model, image_path=None, video_path=None):
         # Save output
         file_name = "splash_{:%Y%m%dT%H%M%S}.png".format(datetime.datetime.now())
         skimage.io.imsave(file_name, splash)
+        
+        visualize.display_instances(image, r['rois'], r['masks'], r['class_ids'], 
+                            ['BG', 'Cigarette'], r['scores'])
+        visualize.apply_mask(image, r['masks'], visualize.random_colors(1)[0])
+        file_name = "mask_{:%Y%m%dT%H%M%S}.png".format(datetime.datetime.now())
+        skimage.io.imsave(file_name, splash)
     elif video_path:
         import cv2
         # Video capture
@@ -269,6 +263,18 @@ def detect_and_color_splash(model, image_path=None, video_path=None):
                 count += 1
         vwriter.release()
     print("Saved to ", file_name)
+    
+def visualize_detection(model, image_path=None):
+    assert image_path
+    if image_path:
+        # Run model detection and generate the color splash effect
+        print("Running on {}".format(image_path))
+        # Read image
+        image = skimage.io.imread(image_path)
+        # Detect objects
+        r = model.detect([image], verbose=1)[0]
+        
+        visualize.display_instances(image, r['rois'], r['masks'], r['class_ids'], ['BG', 'Cigarette'], r['scores'])
 
 
 ############################################################
@@ -308,6 +314,9 @@ if __name__ == '__main__':
     elif args.command == "splash":
         assert args.image or args.video,\
                "Provide --image or --video to apply color splash"
+    # elif args.command == "detect":
+    #     assert args.image or args.video,\
+    #            "Provide --image to run detection"
 
     print("Weights: ", args.weights)
     print("Dataset: ", args.dataset)
@@ -365,6 +374,20 @@ if __name__ == '__main__':
     elif args.command == "splash":
         detect_and_color_splash(model, image_path=args.image,
                                 video_path=args.video)
+    elif args.command == "detect":
+        if args.image:
+            visualize_detection(model, image_path=args.image)
+        else:
+            import random
+            IMAGE_DIR = "./dataset/test/"
+            try:
+                file_names = next(os.walk(IMAGE_DIR))[2]
+                visualize_detection(model, image_path=IMAGE_DIR + random.choice(file_names))
+                # for f in file_names:
+                #     path = IMAGE_DIR + f
+                #     visualize_detection(model, image_path=path)
+            except StopIteration:
+                pass
     else:
         print("'{}' is not recognized. "
-              "Use 'train' or 'splash'".format(args.command))
+              "Use 'train' or 'splash' or 'detect'".format(args.command))
