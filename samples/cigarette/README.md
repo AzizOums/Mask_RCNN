@@ -54,3 +54,17 @@ Run ```train_cigarette.ipynb```
 ```bash
 python cigarette.py train --dataset=./dataset --weights=coco
 ```
+
+# Config and output
+Some informations about the config when we trained this model
+```
+BATCH_SIZE: 1
+LEARNING_RATE: 0.001
+ROI_POSITIVE_RATIO: 0.33
+STEPS_PER_EPOCH: 200
+TRAIN_ROIS_PER_IMAGE: 200
+VALIDATION_STEPS: 50
+```
+
+A complete display of this will appear if you run detection or train
+You can see screenshots of testing in ```test_output``` directory
